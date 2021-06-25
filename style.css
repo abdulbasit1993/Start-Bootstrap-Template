@@ -1,0 +1,115 @@
+.bg-image {
+    background-image: url('./assets/images/bg-masthead.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 65vh;
+}
+
+.bg-image-2 {
+    background-image: url('./assets/images/bg-masthead.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* height: 45vh; */
+}
+
+.bg-overlay {
+    background: linear-gradient(rgba(28,55,94,.5), rgba(28,55,94,.5)), url("./assets/images/bg-masthead.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+}
+
+.main-head {
+    color: #fff;
+    padding-top: 150px;
+    font-size: 3rem;
+    padding-bottom: 30px;
+}
+
+.sign-head {
+    padding-top: 100px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+.search-box {
+    width: 26%;
+    height: 60px;
+    margin-left: 667px;
+}
+
+.sign-up-btn {
+    font-weight: 600;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.features-section {
+    padding: 90px 0 90px 0;
+    background: #F8F9FA;
+}
+
+.features-icons-icon {
+    font-size: 4.5rem;
+    margin-bottom: 20px !important;
+}
+
+.bg-mobile {
+    background-image: url('./assets/images/bg-showcase-1.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 30rem;
+}
+
+.bg-coding {
+    background-image: url('./assets/images/bg-showcase-2.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 30rem;
+}
+
+.bg-comp {
+    background-image: url('./assets/images/bg-showcase-3.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 30rem;
+}
+
+.text-col {
+    padding: 160px;
+}
+
+.card {
+    border: none;
+    width: 20rem !important;
+    background-color: transparent;
+}
+
+.card-img-top {
+    width: 68%;
+}
+
+.what-people-section {
+    background: #F8F9FA;
+}
+
+.sign-up-form {
+    padding-bottom: 100px;
+}
+
+.footer-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-links li {
+    display: inline;
+    margin: 10px;
+}
